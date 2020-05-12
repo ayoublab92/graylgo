@@ -1,2 +1,0 @@
-# graylgo
-graylog 
